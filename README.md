@@ -27,21 +27,19 @@
   - https://github.com/IvalexAnna/taski
   - https://github.com/IvalexAnna/Grocery_assistant
 
-- 🕷️ <strong>Scrapy</strong>: парсинг, пайплайны, экспорт данных
-  - https://github.com/IvalexAnna/scrapy_parser_pep
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask" /> <strong>Flask</strong>: лёгкие веб‑сервисы и микросервисы
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask" /> <strong>Flask</strong>: SQLAlchemy, хеширование,шаблонизация
   - https://github.com/IvalexAnna/yacut
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI" /> <strong>FastAPI</strong>: высокопроизводительные API с валидацией схем
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI" /> <strong>FastAPI</strong>: высокопроизводительные API с валидацией схем, формирование отчетности, GoogleAPI
   - https://github.com/IvalexAnna/QRkot_spreadsheets
   - https://github.com/IvalexAnna/cat_charity_fund
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="20" alt="Telegram" /> <strong>Aiogram</strong>: Telegram‑боты
+- <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="20" alt="Telegram" /> <strong>Aiogram</strong>: Telegram‑боты
   - Разработка телеграм бота для Яндекс Лавки (NDA) 
 
-- 🔎 <strong>Parsing</strong>:
+- 🕷️ <strong>Scrapy</strong>: парсинг, пайплайны, экспорт данных
   - https://github.com/IvalexAnna/bs4_parser_pep
+  - https://github.com/IvalexAnna/scrapy_parser_pep
 
 - 🎮 <strong>Games</strong>:
   - https://github.com/IvalexAnna/the_snake
