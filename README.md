@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Анна Иванова</h1>
   <p><strong>Python Backend‑разработчик</strong></p>
-  <p><em>«Строю понятные и надёжные сервисы, которые растут вместе с продуктом.»</em></p>
+  <p><em>«Каждая строчка кода — это шаг к решению реальных проблем.»</em></p>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
@@ -14,12 +14,11 @@
 ---
 
 ### 🛠 Технологии и инструменты
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" alt="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="24" alt="FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24" alt="Flask" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="24" alt="SQLAlchemy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="24" alt="SQLite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git" />
-- **Backend**: Python, Django, Django REST Framework, FastAPI, Flask
-- **Базы данных**: PostgreSQL, SQLite, SQLAlchemy
-- **Тестирование**: Pytest, unittest
-- **Боты**: Aiogram
-- **Другое**: Git, GitHub Actions, Docker
+- **Backend**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python" /> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" alt="Django" /> Django, Django REST Framework, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI" /> FastAPI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask" /> Flask
+- **Базы данных**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL" /> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" alt="SQLite" /> SQLite, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="20" alt="SQLAlchemy" /> SQLAlchemy
+- **Тестирование**: 🧪 Pytest, unittest
+- **Боты**: <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="20" alt="Telegram" /> Aiogram
+- **Другое**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git" /> Git, GitHub Actions, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker" /> Docker
 
 ### 🔥 Мои проекты
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" alt="Django" /> <strong>Django DRF</strong>: создание REST API, аутентификация, пагинация, фильтры
