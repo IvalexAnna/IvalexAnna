@@ -15,7 +15,7 @@
 
 ### 🛠 Технологии и инструменты
 - **Backend**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python" /> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" alt="Django" /> Django, Django REST Framework, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI" /> FastAPI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask" /> Flask
-- **Базы данных**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL" /> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" alt="SQLite" /> SQLite, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="20" alt="SQLAlchemy" /> SQLAlchemy
+- **Базы данных**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL" /> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" alt="SQLite" /> SQLite, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="20" alt="SQLAlchemy" /> SQLAlchemy <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" /> Redis
 - **Тестирование**: 🧪 Pytest, unittest
 - **Боты**: <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="20" alt="Telegram" /> Aiogram
 - **Другое**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git" /> Git, GitHub Actions, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker" /> Docker
@@ -52,5 +52,6 @@ The English version of the README is available:
 <a href="https://github.com/IvalexAnna/IvalexAnna_Eng/blob/main/README.md"><img src="https://img.shields.io/badge/English-4285F4?style=flat&logo=google&logoColor=white" alt="English README" /></a>
 
 Открыта к сотрудничеству и интересным задачам. 🚀
+
 
 
