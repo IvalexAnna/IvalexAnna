@@ -22,7 +22,7 @@
 
 ### 🔥 Мои проекты
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" alt="Django" /> <strong>Django DRF</strong>: создание REST API, аутентификация, пагинация, фильтры
-  - [git@github.com:DelovReshBack/Delov_Resh_Back.git](https://github.com/DelovReshBack/Delov_Resh_Back)
+  - [[git@github.com:DelovReshBack/Delov_Resh_Back.git](https://github.com/DelovReshBack/Delov_Resh_Back)](https://github.com/DelovReshBack/Delov_Resh_Back)
   - https://github.com/AquaLedStroy-development/backend
   - https://github.com/IvalexAnna/Social_network
   - https://github.com/IvalexAnna/taski
@@ -53,6 +53,7 @@ The English version of the README is available:
 <a href="https://github.com/IvalexAnna/IvalexAnna_Eng/blob/main/README.md"><img src="https://img.shields.io/badge/English-4285F4?style=flat&logo=google&logoColor=white" alt="English README" /></a>
 
 Открыта к сотрудничеству и интересным задачам. 🚀
+
 
 
 
