@@ -16,13 +16,15 @@
 
 ### 🛠 Технологии и инструменты
 - **Backend**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python" /> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" alt="Django" /> Django, Django REST Framework, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" alt="FastAPI" /> FastAPI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" alt="Flask" /> Flask
-- **Базы данных**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL" /> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" alt="SQLite" /> SQLite, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="20" alt="SQLAlchemy" /> SQLAlchemy <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" /> Redis
+- **Базы данных**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL" /> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" alt="SQLite" /> SQLite, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="20" alt="SQLAlchemy" /> SQLAlchemy <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" /> Redis <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
 - **Тестирование**: 🧪 Pytest, unittest
 - **Боты**: <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="20" alt="Telegram" /> Aiogram
 - **Другое**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" alt="Git" /> Git, GitHub Actions, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker" /> Docker
 
 ### 🔥 Мои проекты
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" alt="Django" /> <strong>Django DRF</strong>: создание REST API, аутентификация, пагинация, фильтры
+  - https://github.com/ilya-pelenkov/BackToSchool
+  - https://github.com/ilya-pelenkov/ThreeRoses
   - https://github.com/DelovReshBack/Delov_Resh_Back
   - https://github.com/AquaLedStroy-development/backend
   - https://github.com/IvalexAnna/Social_network
